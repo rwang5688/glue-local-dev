@@ -1,1 +1,1 @@
-# glue-local-development
+# glue-local-dev
